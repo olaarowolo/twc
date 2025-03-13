@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Thu, 13 Mar 2025 05:59:33 at https://www.artisanwebsite.com/
+(winhttrack https://www.artisanwebsite.com/ -O "/Users/oa/websites/twc-website" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:59:36	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.artisanwebsite.com/"https://cdn.prod.website-files.com/65a41304736b28beba9560a7/65a4542fe54d41c8dabdf4d1_bz-iphone-mockup2-poster-00001.jpg" (from https://www.artisanwebsite.com/)
+05:59:37	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.artisanwebsite.com/"https://cdn.prod.website-files.com/65a41304736b28beba9560a7/65a4542fe54d41c8dabdf4d1_bz-iphone-mockup2-poster-00001.jpg" (from https://www.artisanwebsite.com/)
+05:59:38	Error: 	"Bad Gateway" (502) after 2 retries at link https://www.artisanwebsite.com/"https://cdn.prod.website-files.com/65a41304736b28beba9560a7/65a4542fe54d41c8dabdf4d1_bz-iphone-mockup2-poster-00001.jpg" (from https://www.artisanwebsite.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 5 links scanned, 1 files written (19895 bytes overall) [27768 bytes received at 5553 bytes/sec], 20355 bytes transferred using HTTP compression in 2 files, ratio 25%, 2.5 requests per connection
+(1 errors, 2 warnings, 0 messages)

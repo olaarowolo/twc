@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	8Stp3WiGdY9Ri8Wtmi40Ef.ydU5LdBba5v0QBkf6TKU-1741845577304-0.0.1.1-604800000
+www.artisanwebsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+
